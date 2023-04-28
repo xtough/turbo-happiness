@@ -1,3 +1,3 @@
 # turbo-happiness
-bad text
+revert test
 missing linefeed
